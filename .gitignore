@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# excluyendo carpeta vitual.
+/reto1s4_venv
